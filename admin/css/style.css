@@ -1,0 +1,38 @@
+#footer{
+	height: 100px;
+	background-color: #087198;
+}
+#logo{
+	background-color: #087198;
+}
+p{
+	text-align: center;
+	color: #12aaff;
+}
+
+th{
+	text-align: center;
+	color: gray;
+}
+#a_img{
+	height: 100px;
+	width: 80px;
+}
+#b_img{
+	height: 250px;
+	width: 180px;
+	border: 1px solid;
+}
+#table_1{
+	margin-top: 30px;
+}
+#imgbox{
+	height: 500px;
+	width: 300px;
+	border: 1px solid;
+}
+#preview{
+	height: 200px;
+	width: 200px;
+	border: 1px solid;
+}
